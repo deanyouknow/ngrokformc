@@ -1,5 +1,9 @@
 # ngrokformc
 ### My own alternative for whoever hosted mc server on ur pc but u cant port forwarding
+### Download
+#### Windows - [Here](https://ngrok.com/download)
+#### MacOS - [Here](https://ngrok.com/download)
+#### Linux - [Here](https://ngrok.com/download)
 ### Region select
 #### US (United States)
 ```
